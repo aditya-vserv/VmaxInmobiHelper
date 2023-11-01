@@ -1,0 +1,11 @@
+framework module VmaxInmobiHelper {
+  umbrella header "VmaxInmobiHelper.h"
+
+  export *
+  module * { export * }
+}
+
+module VmaxInmobiHelper.Swift {
+  header "VmaxInmobiHelper-Swift.h"
+  requires objc
+}
