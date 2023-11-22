@@ -253,6 +253,7 @@ using UInt = size_t;
 
 #if defined(__OBJC__)
 
+/// VmaxAdInMobiBanner allows you draw <code>Banner</code> ad experiences using InMobi Ads.
 SWIFT_CLASS("_TtC16VmaxInmobiHelper18VmaxAdInMobiBanner")
 @interface VmaxAdInMobiBanner : NSObject
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
@@ -271,6 +272,7 @@ SWIFT_CLASS("_TtC16VmaxInmobiHelper18VmaxAdInMobiBanner")
 
 
 
+/// VmaxAdInMobiNative allows you draw <code>Native</code> ad experiences using InMobi Ads.
 SWIFT_CLASS("_TtC16VmaxInmobiHelper18VmaxAdInMobiNative")
 @interface VmaxAdInMobiNative : NSObject
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;

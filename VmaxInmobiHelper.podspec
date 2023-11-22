@@ -1,9 +1,9 @@
 Pod::Spec.new do |spec|
 
   spec.name = "VmaxInmobiHelper"
-  spec.version = "1.0.0"
-  spec.summary = "VmaxInmobiHelper allows the publishers to display InMobi display & native ads."
-  spec.description = "VmaxInmobiHelper allows the publishers to display InMobi display & native ads via Vmax."
+  spec.version = "1.0.1"
+  spec.summary = "VmaxInmobiHelper allows the publishers to display banner & native ads using InMobi Ads."
+  spec.description = "VmaxInmobiHelper allows the publishers to display InMobi Banner & Native ads via Vmax."
   spec.homepage = "https://www.vmax.com"
   spec.license = "MIT"
   spec.author = { "Aditya Sharma" => "aditya.s@vserv.com" }

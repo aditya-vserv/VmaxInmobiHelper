@@ -694,6 +694,7 @@
         "moduleName": "VmaxInmobiHelper",
         "declAttributes": [
           "AccessControl",
+          "RawDocComment",
           "ObjC"
         ],
         "superclassUsr": "c:objc(cs)NSObject",
@@ -2154,6 +2155,7 @@
         "moduleName": "VmaxInmobiHelper",
         "declAttributes": [
           "AccessControl",
+          "RawDocComment",
           "ObjC"
         ],
         "superclassUsr": "c:objc(cs)NSObject",
@@ -2776,49 +2778,35 @@
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-gam\/VmaxInmobiHelper\/VmaxInmobiHelper\/Source\/Banner\/VmaxAdInMobiBanner.swift",
       "kind": "BooleanLiteral",
-      "offset": 312,
+      "offset": 413,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-gam\/VmaxInmobiHelper\/VmaxInmobiHelper\/Source\/Banner\/VmaxAdInMobiBanner.swift",
       "kind": "BooleanLiteral",
-      "offset": 462,
+      "offset": 595,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-gam\/VmaxInmobiHelper\/VmaxInmobiHelper\/Source\/Banner\/VmaxAdInMobiBanner.swift",
       "kind": "BooleanLiteral",
-      "offset": 494,
+      "offset": 635,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-gam\/VmaxInmobiHelper\/VmaxInmobiHelper\/Source\/Banner\/VmaxAdInMobiBanner.swift",
       "kind": "StringLiteral",
-      "offset": 551,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-gam\/VmaxInmobiHelper\/VmaxInmobiHelper\/Source\/Banner\/VmaxAdInMobiBanner.swift",
-      "kind": "StringLiteral",
-      "offset": 600,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-gam\/VmaxInmobiHelper\/VmaxInmobiHelper\/Source\/Banner\/VmaxAdInMobiBanner.swift",
-      "kind": "StringLiteral",
-      "offset": 733,
+      "offset": 891,
       "length": 8,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-gam\/VmaxInmobiHelper\/VmaxInmobiHelper\/Source\/Banner\/VmaxAdInMobiBanner.swift",
       "kind": "StringLiteral",
-      "offset": 740,
+      "offset": 898,
       "length": 10,
       "value": "\"\""
     },
@@ -3049,35 +3037,35 @@
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-gam\/VmaxInmobiHelper\/VmaxInmobiHelper\/Source\/Native\/VmaxAdInMobiNative.swift",
       "kind": "BooleanLiteral",
-      "offset": 340,
+      "offset": 441,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-gam\/VmaxInmobiHelper\/VmaxInmobiHelper\/Source\/Native\/VmaxAdInMobiNative.swift",
       "kind": "BooleanLiteral",
-      "offset": 490,
+      "offset": 623,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-gam\/VmaxInmobiHelper\/VmaxInmobiHelper\/Source\/Native\/VmaxAdInMobiNative.swift",
       "kind": "BooleanLiteral",
-      "offset": 522,
+      "offset": 663,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-gam\/VmaxInmobiHelper\/VmaxInmobiHelper\/Source\/Native\/VmaxAdInMobiNative.swift",
       "kind": "StringLiteral",
-      "offset": 729,
+      "offset": 919,
       "length": 8,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-gam\/VmaxInmobiHelper\/VmaxInmobiHelper\/Source\/Native\/VmaxAdInMobiNative.swift",
       "kind": "StringLiteral",
-      "offset": 736,
+      "offset": 926,
       "length": 10,
       "value": "\"\""
     }
